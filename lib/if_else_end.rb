@@ -12,3 +12,5 @@ if current_second % 2 == 0
 else
   puts "Odd!"
 end
+
+# cleaner solution
