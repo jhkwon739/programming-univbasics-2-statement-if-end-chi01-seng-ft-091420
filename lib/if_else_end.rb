@@ -6,7 +6,7 @@ current_time = Time.now
 # convert time to seconds
 current_second = current_time.to_i
 
-// checks if time is divisible by 2 which makes it even
+# checks if time is divisible by 2 which makes it even
 if current_second % 2 == 0 
   puts "Even!"
 else
