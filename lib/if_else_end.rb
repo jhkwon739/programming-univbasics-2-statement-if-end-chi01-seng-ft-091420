@@ -20,4 +20,10 @@ end
 #  puts "Odd!"
 #end
 
-#built-in tool for checking if any integer is even 
+#built-in tool for checking if any integer is even (.even?)
+
+#if current_time.even?
+#  puts "Even!"
+#else
+#  puts "Odd!"
+#end
